@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.meetz.api.ApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.5 s - in com.meetz.api.ApiApplicationTests
